@@ -1,0 +1,1 @@
+# showa-retro-vscode-theme
