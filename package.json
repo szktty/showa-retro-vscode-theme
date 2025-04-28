@@ -1,7 +1,7 @@
 {
   "name": "showa-retro-themes",
   "displayName": "Showa Retro Themes",
-  "description": "Color themes inspired by Showa Retro.",
+  "description": "Color themes inspired by the Japanese Showa era aesthetic.",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.0.0"
