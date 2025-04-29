@@ -4,6 +4,13 @@
   "description": "Color themes inspired by the Japanese Showa era aesthetic.",
   "version": "1.0.1",
   "publisher": "szktty0508",
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "showa",
+    "retro"
+  ],
   "icon": "images/logo-128x128.png",
   "repository": {
     "url": "https://github.com/szktty/showa-retro-vscode-theme",
@@ -92,5 +99,9 @@
         "path": "./themes/Showa Retro Sunset-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
   }
 }

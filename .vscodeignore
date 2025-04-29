@@ -2,3 +2,6 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+images/logo-512x512.png
+images/*-screenshot.png
+install.sh
