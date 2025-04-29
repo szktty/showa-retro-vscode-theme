@@ -2,13 +2,35 @@
   "name": "showa-retro-themes",
   "displayName": "Showa Retro Themes",
   "description": "Color themes inspired by the Japanese Showa era aesthetic.",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "publisher": "szktty0508",
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "showa",
+    "retro"
+  ],
+  "icon": "images/logo-128x128.png",
+  "repository": {
+    "url": "https://github.com/szktty/showa-retro-vscode-theme",
+    "type": "git"
+  },
+  "homepage": "https://github.com/szktty/showa-retro-vscode-theme",
+  "bugs": {
+    "url": "https://github.com/szktty/showa-retro-vscode-theme/issues"
+  },
   "engines": {
     "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
   ],
+  "vsce": {
+    "baseImagesUrl": "https://github.com/szktty/showa-retro-vscode-theme/tree/develop/images",
+    "dependencies": true,
+    "yarn": false
+  },
   "contributes": {
     "themes": [
       {
@@ -77,5 +99,9 @@
         "path": "./themes/Showa Retro Sunset-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
   }
 }
