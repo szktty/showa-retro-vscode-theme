@@ -80,4 +80,4 @@ If you enjoy these themes, please consider rating and reviewing them on the [VS 
 
 ## Developer
 
-SUZUKI Tetsuya
+SUZUKI Tetsuya <tetsuya.suzuki@gmail.com>
