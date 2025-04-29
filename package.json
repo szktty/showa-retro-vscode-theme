@@ -1,0 +1,81 @@
+{
+  "name": "showa-retro-themes",
+  "displayName": "Showa Retro Themes",
+  "description": "Color themes inspired by the Japanese Showa era aesthetic.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Showa Retro Castella",
+        "uiTheme": "vs",
+        "path": "./themes/Showa Retro Castella-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Nostalgic",
+        "uiTheme": "vs",
+        "path": "./themes/Showa Retro Nostalgic-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Heart",
+        "uiTheme": "vs",
+        "path": "./themes/Showa Retro Heart-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Night Downtown",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Showa Retro Night Downtown-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Night Festival",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Showa Retro Night Festival-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Twilight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Showa Retro Twilight-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Seven Mysteries",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Showa Retro Seven Mysteries-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Dagashi",
+        "uiTheme": "vs",
+        "path": "./themes/Showa Retro Dagashi-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Showa Retro Midnight-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Cream Soda",
+        "uiTheme": "vs",
+        "path": "./themes/Showa Retro Cream Soda-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Caramel",
+        "uiTheme": "vs",
+        "path": "./themes/Showa Retro Caramel-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Cafe",
+        "uiTheme": "vs",
+        "path": "./themes/Showa Retro Cafe-color-theme.json"
+      },
+      {
+        "label": "Showa Retro Sunset",
+        "uiTheme": "vs",
+        "path": "./themes/Showa Retro Sunset-color-theme.json"
+      }
+    ]
+  }
+}
